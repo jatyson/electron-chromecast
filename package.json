@@ -12,7 +12,7 @@
   "dependencies": {
     "castv2": "^0.1.6",
     "lodash": "^4.13.1",
-    "node-mdns-easy": "^1.0.0"
+    "node-mdns-easy": "https://github.com/jatyson/node-mdns-easy/tarball/master"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
